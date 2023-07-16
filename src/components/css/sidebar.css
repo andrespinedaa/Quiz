@@ -1,0 +1,26 @@
+.sidebar{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    background-color: #000;
+    width: 200px;
+    border-radius: 0 20px 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 15px 0px 15px 0 rgba(0, 0, 0, 0.2);
+}
+.sidebar__menu{
+    list-style: none;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.sidebar__menu--link{
+    color: #f2f2f2;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 20px;
+}

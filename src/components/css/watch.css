@@ -1,0 +1,14 @@
+.watch{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: -50px;
+}
+.cronometro{
+    width: 100px;
+    height: 36px;
+    padding: 5px 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+}

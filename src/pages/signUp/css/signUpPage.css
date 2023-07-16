@@ -1,0 +1,13 @@
+.signUpPage{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.figure__logIn{
+    width: 200px;
+    height: auto;
+}
+.hero-image-olimpiadas{
+    width: 100%;
+    height: auto;
+}

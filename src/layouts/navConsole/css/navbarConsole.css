@@ -1,0 +1,9 @@
+.navbar-console{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    border: 2px solid black;
+}

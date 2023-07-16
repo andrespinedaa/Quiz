@@ -1,0 +1,5 @@
+1. Crear el server, junto con las apis.
+2. hacer el kahoot.
+3. hacer Header para ejercicios.
+4. el boton de exit haga save de los ejercicios de la persona.
+5. Ordenar los layouts y mover los components.
